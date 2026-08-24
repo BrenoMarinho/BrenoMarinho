@@ -10,8 +10,8 @@
 🌱 Atualmente, estou focando minha pesquisa acadêmica no uso de GANs (Redes Adversárias Generativas) para reconhecimento facial e desenvolvendo programas em Python focados em estruturas de grafos.<br>
 🎾 No meu tempo livre, você me encontra nas aulas de tênis, acompanhando a Fórmula 1 ou escutando Liniker e Gal Costa.<br>
 💬 Fique à vontade para me chamar para conversar sobre operações de TI, projetos em Python, Inteligência Artificial ou sobre as corridas do fim de semana!<br>
-✉️ Você pode me mandar um e-mail em [seu_email@gmail.com](mailto:seu_email@gmail.com).<br>
-📄 Acesse meu [LinkedIn](https://linkedin.com/in/seu_usuario) para mais detalhes sobre minha experiência profissional.
+✉️ Você pode me mandar um e-mail em [seu_email@gmail.com](brenosmarinho@gmail.com).<br>
+📄 Acesse meu [LinkedIn](www.linkedin.com/in/brenomarinho) para mais detalhes sobre minha experiência profissional.
 
 ## 🛠 Tech Stack
 
@@ -23,5 +23,5 @@
 
 ## 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brenomarinho)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenosmarinho@gmail.com)
