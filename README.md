@@ -1,4 +1,4 @@
-# Hello world in breno! 👋
+# Hello World, I'm Breno! 👋
 
 ![Version](https://img.shields.io/badge/version-2026-blue) ![Followers](https://img.shields.io/github/followers/seu_usuario?label=Follow&style=social)
 
