@@ -23,6 +23,6 @@
 
 ## 📫 Como me encontrar:
 
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-26428B?style=for-the-badge)]([seu_link_do_lattes](https://lattes.cnpq.br/1971018385280333)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-26428B?style=for-the-badge)](https://lattes.cnpq.br/1971018385280333)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brenomarinho)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenosmarinho@gmail.com)
