@@ -1,6 +1,6 @@
 # <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=3776AB&width=500&lines=Hello+World,+I'm+Breno!" alt="Typing SVG" /> 
 
-![Version](https://img.shields.io/badge/version-24.28.2026-blue) ![Followers](https://img.shields.io/github/followers/BrenoMarinho?label=Follow&style=social)
+![Version](https://img.shields.io/badge/version-03.08.2026-blue) ![Followers](https://img.shields.io/github/followers/BrenoMarinho?label=Follow&style=social)
 
 ## 👨🏻‍💻 Sobre mim
 
