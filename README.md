@@ -10,7 +10,7 @@
 🌱 Atualmente, estou focando minha pesquisa acadêmica no uso de GANs (Redes Adversárias Generativas) para reconhecimento facial e desenvolvendo programas em Python focados em estruturas de grafos.<br>
 🎾 No meu tempo livre, você me encontra nas aulas de tênis, acompanhando a Fórmula 1 ou escutando Liniker e Gal Costa.<br>
 💬 Fique à vontade para me chamar para conversar sobre operações de TI, projetos em Python, Inteligência Artificial ou sobre as corridas do fim de semana!<br>
-✉️ Você pode me mandar um e-mail em [Gmail.com](brenosmarinho@gmail.com).<br>
+✉️ Você pode me mandar um e-mail em [E-mail](brenosmarinho@gmail.com).<br>
 📄 Acesse meu [LinkedIn](www.linkedin.com/in/brenomarinho) para mais detalhes sobre minha experiência profissional.
 
 ## 🛠 Tech Stack
