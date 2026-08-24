@@ -11,7 +11,7 @@
 🎾 No meu tempo livre, você me encontra nas aulas de tênis, acompanhando a Fórmula 1 ou escutando Liniker e Gal Costa.<br>
 💬 Fique à vontade para me chamar para conversar sobre operações de TI, projetos em Python, Inteligência Artificial ou sobre as corridas do fim de semana!<br>
 ✉️ Você pode me mandar um e-mail em [Brenosmarinho@gmail.com](mailto:brenosmarinho@gmail.com).<br>
-📄 Acesse meu [LinkedIn](www.linkedin.com/in/brenomarinho) para mais detalhes sobre minha experiência profissional.
+📄 Acesse meu [LinkedIn](https://linkedin.com/in/seu_usuario) para mais detalhes sobre minha experiência profissional.
 
 ## 🛠 Tech Stack
 
