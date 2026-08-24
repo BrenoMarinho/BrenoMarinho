@@ -1,4 +1,5 @@
-# print("Hello World I'm Breno!")👋
+```python
+print("Hello World I'm Breno!")👋
 
 <!--
 **BrenoMarinho/BrenoMarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
