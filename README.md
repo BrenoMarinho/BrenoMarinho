@@ -4,13 +4,13 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-💡 Sou um profissional de Operações de TI responsável por sustentar sistemas complexos, e estudante de Ciências da Computação!
-💻 Tenho experiência no monitoramento, análise e resolução de chamados corporativos de faturamento utilizando tecnologias consolidadas como COBOL, JCL e SQL.
-🎓 Sou graduando em Ciências da Computação pelo UDF Centro Universitário.
-🌱 Atualmente, estou focando minha pesquisa acadêmica no uso de GANs (Redes Adversárias Generativas) para reconhecimento facial e desenvolvendo programas em Python focados em estruturas de grafos.
-🎾 No meu tempo livre, você me encontra nas aulas de tênis, acompanhando a Fórmula 1 ou escutando Liniker e Gal Costa.
-💬 Fique à vontade para me chamar para conversar sobre operações de TI, projetos em Python, Inteligência Artificial ou sobre as corridas do fim de semana!
-✉️ Você pode me mandar um e-mail em [seu_email@gmail.com](mailto:seu_email@gmail.com).
+💡 Sou um profissional de Operações de TI responsável por sustentar sistemas complexos, e estudante de Ciências da Computação!<br>
+💻 Tenho experiência no processamento, monitoramento, análise e resolução de chamados corporativos de faturamento utilizando tecnologias consolidadas como COBOL, JCL e SQL.<br>
+🎓 Sou graduando em Ciências da Computação pelo UDF Centro Universitário.<br>
+🌱 Atualmente, estou focando minha pesquisa acadêmica no uso de GANs (Redes Adversárias Generativas) para reconhecimento facial e desenvolvendo programas em Python focados em estruturas de grafos.<br>
+🎾 No meu tempo livre, você me encontra nas aulas de tênis, acompanhando a Fórmula 1 ou escutando Liniker e Gal Costa.<br>
+💬 Fique à vontade para me chamar para conversar sobre operações de TI, projetos em Python, Inteligência Artificial ou sobre as corridas do fim de semana!<br>
+✉️ Você pode me mandar um e-mail em [seu_email@gmail.com](mailto:seu_email@gmail.com).<br>
 📄 Acesse meu [LinkedIn](https://linkedin.com/in/seu_usuario) para mais detalhes sobre minha experiência profissional.
 
 ## 🛠 Tech Stack
