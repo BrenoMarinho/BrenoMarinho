@@ -5,7 +5,7 @@
 ## 👨🏻‍💻 Sobre mim
 
 💡 Sou um profissional de Operações de TI responsável por sustentar sistemas complexos, e estudante de Ciências da Computação!<br>
-💻 Tenho experiência no atendimento, processamento, monitoramento, análise e resolução de chamados corporativos de faturamento utilizando tecnologias consolidadas como COBOL, JCL e SQL.<br>
+💻 Tenho experiência no atendimento, processamento, monitoramento, análise e resolução de chamados corporativos de faturamento utilizando tecnologias consolidadas como COBOL, JCL, SQL e Python.<br>
 🎓 Sou graduando em Ciências da Computação pelo UDF Centro Universitário com formação ao final de 2026.<br>
 🌱 Atualmente, estou focando minha pesquisa acadêmica no uso de GANs (Redes Adversárias Generativas) para reconhecimento facial e desenvolvendo programas com algumas linguagens.<br>
 🎾 No meu tempo livre, você me encontra nas aulas de tênis, acompanhando a Fórmula 1, jogando online ou escutando músicas.<br>
